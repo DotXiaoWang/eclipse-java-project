@@ -1,0 +1,23 @@
+package kehoutimu;
+
+public class volume {
+	
+	double chang;
+	double width;
+	double high;
+	volume(){
+		
+	}
+	
+	
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

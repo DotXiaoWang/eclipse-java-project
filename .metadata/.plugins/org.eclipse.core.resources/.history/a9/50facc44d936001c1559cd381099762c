@@ -1,0 +1,29 @@
+package kehoutimu;
+
+public class volume {
+	
+	double chang;
+	double width;
+	double high;
+	volume(double chang,double width,double high){
+		this.chang=chang;
+		this.width=width;
+		this.high=high;
+
+	}
+	public double volume2(double chang,double width,double high){
+		return chang* width* high;
+	}
+	
+	
+	
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

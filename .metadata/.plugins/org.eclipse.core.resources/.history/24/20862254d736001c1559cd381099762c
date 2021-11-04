@@ -1,0 +1,13 @@
+package ch03;
+import ch03.MyClass1;
+public class Test {
+	public void func(){
+		MyClass1 obj1 = new MyClass1();
+		System.out.println(obj1.a);
+		//类中私有的没有办法进行访问
+		、、System.out.println(obj1.b);
+		
+		
+	}
+
+}
