@@ -1,0 +1,9 @@
+package chapter2_1;
+
+public abstract  class Shape {
+	double dim;
+	
+
+
+
+}

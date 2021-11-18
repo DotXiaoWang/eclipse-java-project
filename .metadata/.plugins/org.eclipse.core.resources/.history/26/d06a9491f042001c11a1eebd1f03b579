@@ -1,0 +1,12 @@
+package chapter2_1;
+
+public class Book {
+	String isbn;
+	String name;
+	String price;
+	public booblean equals(Object obj){
+		
+	}
+	
+
+}

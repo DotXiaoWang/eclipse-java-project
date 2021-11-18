@@ -1,0 +1,12 @@
+package chapter2_1;
+
+public abstract  class Shape {
+	double dim;
+	public Shape(double dim){
+		
+	}
+	
+
+
+
+}

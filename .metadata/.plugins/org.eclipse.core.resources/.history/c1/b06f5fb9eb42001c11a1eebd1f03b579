@@ -1,0 +1,15 @@
+package chapter2_1;
+
+public class Circle  extends Shape  {
+	public Circle (double dim) {
+		super(dim);
+		
+		
+	}
+	public double callArea(){
+		
+	}
+	
+	
+
+}

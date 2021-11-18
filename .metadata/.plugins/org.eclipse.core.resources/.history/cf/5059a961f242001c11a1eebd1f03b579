@@ -1,0 +1,12 @@
+package chapter2_1;
+
+public class EqualsDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Interger obj1 = new Interger(5);
+		
+
+	}
+
+}

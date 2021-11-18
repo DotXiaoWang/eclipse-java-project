@@ -1,0 +1,9 @@
+package chapter2_1;
+
+public interface MyInterface {
+	public void add(int x,int y);
+	public void volume(int x,int y, int z);
+	
+	
+
+}

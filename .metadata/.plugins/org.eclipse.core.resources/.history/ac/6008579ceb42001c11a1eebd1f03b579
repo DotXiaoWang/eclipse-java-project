@@ -1,0 +1,11 @@
+package chapter2_1;
+
+public class  extends Shape Circle {
+	public Circle (double dim) {
+		super(dim);
+		
+		
+	}
+	
+
+}

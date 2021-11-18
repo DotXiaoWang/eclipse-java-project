@@ -1,0 +1,10 @@
+package demo01;
+
+
+课程类course(学期，课程编码，课程名称，任课教师teacher，成绩等几个属性)个类文件
+public class course extends student{
+	private int semester;
+	
+	
+
+}

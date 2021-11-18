@@ -1,0 +1,6 @@
+package demo01;
+
+public class student extends teacher {
+	
+
+}
